@@ -21,3 +21,6 @@ Console.WriteLine(car1.Equals(car2));
 Console.WriteLine(car1.GetHashCode());
 Console.WriteLine(car2.GetHashCode());
 
+Console.WriteLine("Create new branch Developer");
+
+Console.WriteLine("Added for chery pick");
