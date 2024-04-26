@@ -9,4 +9,6 @@ Console.WriteLine("First commit");
 Console.WriteLine("Second commit");
 
 
-Console.WriteLine("Create new branch Developer");    
+Console.WriteLine("Create new branch Developer");
+
+Console.WriteLine("Added for chery pick");
